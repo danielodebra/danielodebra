@@ -101,4 +101,3 @@ to something people can actually use.
 
 ---
 
-Always learning something new. Thanks for stopping by! 👋
