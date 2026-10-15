@@ -15,8 +15,6 @@ problems, and trying out new technologies.
 Outside of work, you'll usually find me working on my homelab, experimenting
 with infrastructure, automating things, or building websites and applications.
 
-I like learning by doing, documenting what I learn, and occasionally
-breaking things along the way 😅
 
 ## 🔧 Things I Enjoy Working On
 
@@ -96,7 +94,7 @@ to something people can actually use.
         height="165"
         alt="Most used programming languages"
       />
-     </p>
+  </p>
 
 
 ---
