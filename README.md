@@ -18,7 +18,7 @@ with infrastructure, automating things, or building websites and applications.
 I like learning by doing, documenting what I learn, and occasionally
 breaking things along the way 😅
 
-## 🔧 What I'm working on
+## 🔧 Things I Enjoy Working On
 
 - 🐧 Linux, Ubuntu, and homelab projects
 - 🖥️ Windows Server and infrastructure
