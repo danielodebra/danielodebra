@@ -70,30 +70,6 @@ Building websites and exploring how to take projects from an idea to something p
 </p>
 
 
-## 🚀 Things I've built
-
-A few projects I've been working on in my spare time.
-
-### 🏠 Homelab & Linux
-
-Playing around with Linux, virtualisation, networking, storage,
-and self-hosted services.
-
-### 🖥️ Windows Infrastructure
-
-Building out a Windows Server lab and getting hands-on with
-Active Directory, DNS, DHCP, and Group Policy.
-
-### ⚙️ Automation & CI/CD
-
-Experimenting with scripts, automated deployments, and ways
-to make development workflows more efficient.
-
-### 🌐 Websites & Applications
-
-Building websites and exploring how to take projects from an idea
-to something people can actually use.
-
 ## 📊 Some Stats
 
  <!-- Keep your existing GitHub statistics cards here. -->
