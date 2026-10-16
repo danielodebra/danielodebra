@@ -18,7 +18,7 @@
 
 A few projects I’ve been working on in my spare time, learning by building, experimenting and solving problems along the way.
 
-🏠 ⁠Homelab & Linux
+🏠 ⁠[Homelab & Linux](https://github.com/danielodebra/homelab)
 
 My personal homelab built around repurposed hardware, Proxmox VE, Linux and Windows virtual machines, Docker and self-hosted applications.
 
