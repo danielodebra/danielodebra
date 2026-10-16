@@ -1,4 +1,4 @@
-<h1 align="center">Daniel Debra</h1>
+<h1 align="left">Daniel Debra</h1>
 
 <p align="center">
   IT Engineer who enjoys exploring technology and building things in my spare time.
