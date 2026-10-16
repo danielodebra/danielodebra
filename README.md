@@ -1,19 +1,8 @@
 <h1 align="center">Daniel Debra</h1>
 
 <p align="center">
-  IT professional who enjoys exploring technology and building things
-  in my spare time.
+  IT Engineer who enjoys exploring technology and building things in my spare time.
 </p>
-
----
-
-## A little about me
-
-I work in IT and enjoy figuring out how things work, solving technical
-problems, and trying out new technologies.
-
-Outside of work, you'll usually find me working on my homelab, experimenting
-with infrastructure, automating things, or building websites and applications.
 
 
 ## 🔧 Things I Enjoy Working On
@@ -24,6 +13,32 @@ with infrastructure, automating things, or building websites and applications.
 - ⚙️ Scripting, automation, and CI/CD
 - 🐳 Docker, virtualisation, and self-hosted services
 - 💻 Websites and personal software projects
+
+## 🚀 Things I’ve Built
+
+A few projects I’ve been working on in my spare time, learning by building, experimenting and solving problems along the way.
+
+🏠 ⁠Homelab & Linux
+
+My personal homelab built around repurposed hardware, Proxmox VE, Linux and Windows virtual machines, Docker and self-hosted applications.
+
+Exploring: Linux administration, virtualisation, networking, storage, Docker and self-hosting.
+
+🖥️ Windows Infrastructure
+
+Building out a Windows Server lab to practise Active Directory, DNS, DHCP, Group Policy and Windows infrastructure administration.
+
+⚙️ Automation & CI/CD
+
+Experimenting with scripting, automated deployments and ways to make development workflows more efficient.
+
+🌐 Websites & Applications
+
+Building websites and exploring how to take projects from an idea to something people can actually use.
+
+
+
+
 
 ## 🛠️ Technologies & Tools
 
