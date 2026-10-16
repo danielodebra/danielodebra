@@ -18,21 +18,21 @@
 
 A few projects I’ve been working on in my spare time, learning by building, experimenting and solving problems along the way.
 
-## 🏠 ⁠[Homelab & Linux](https://github.com/danielodebra/homelab)
+#### 🏠 ⁠[Homelab & Linux](https://github.com/danielodebra/homelab)
 
 My personal homelab built around repurposed hardware, Proxmox VE, Linux and Windows virtual machines, Docker and self-hosted applications.
 
 Exploring: Linux administration, virtualisation, networking, storage, Docker and self-hosting.
 
-¢¢ 🖥️ Windows Infrastructure
+#### 🖥️ Windows Infrastructure
 
 Building out a Windows Server lab to practise Active Directory, DNS, DHCP, Group Policy and Windows infrastructure administration.
 
-## ⚙️ Automation & CI/CD
+#### ⚙️ Automation & CI/CD
 
 Experimenting with scripting, automated deployments and ways to make development workflows more efficient.
 
-## 🌐 Websites & Applications
+#### 🌐 Websites & Applications
 
 Building websites and exploring how to take projects from an idea to something people can actually use.
 
