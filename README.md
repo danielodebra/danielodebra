@@ -1,6 +1,6 @@
 <h1 align="left">Daniel Debra</h1>
 
-<p align="center">
+<p align="left">
   IT Engineer who enjoys exploring technology and building things in my spare time.
 </p>
 
